@@ -1,5 +1,6 @@
 # rename_function
 Rename function with Ghidra P-Code.
+Refer to GalaxyLab's [project](https://github.com/PAGalaxyLab/ghidra_scripts).
 
 ## Usage
 * Change **log_func_addr** with the address of the log print function.
