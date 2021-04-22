@@ -19,7 +19,9 @@ Results will be displayed in the console window, and the function name will be m
 ![img3](./img/img3.png)
 
 ## Convert Ghidra project to IDA project
-* Save the Ghidra project firstly.
+[Reference](https://revers3c.blogspot.com/2019/04/import-ida-pro-database-into-ghidra.html)
+
+Save the Ghidra project firstly.
 ### Export Ghidra project to xml
 In Ghidra: File->Export Program. Select XML format and a directory.
 ### Import xml into IDA pro
